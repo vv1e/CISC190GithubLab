@@ -1,1 +1,1 @@
-# CISC190GithubLab
+# Git Group Lab
